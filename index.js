@@ -49,19 +49,19 @@ const { ind } = require('./bahasa')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Nurulツ\n' //ganti nama lu! 
+            + 'FN:Ilman\n' //ganti nama lu! 
             + 'ORG: Owner Manca-Bot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6283815956151:+62 838-1595-6151\n'  //ganti nomor lu! 
+            + 'TEL;type=CELL;type=VOICE;waid=6281351047727:+62 813-5104-7727\n'  //ganti nomor lu! 
             + 'END:VCARD'
-prefix = '_'
+prefix = '.'
 blocked = []   
 limitawal = 10000
 memberlimit = 1
 cr = '*𝙈𝘼𝙉𝘾𝘼-𝘽𝙊𝙏-𝙑𝙀𝙍𝙄𝙁𝙄𝙀𝘿̶*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6283815956151@s.whatsapp.net"]   //ganti nomor lu! 
-const pacarNumber = ["6282243603393@s.whatsapp.net"]  //ganti nomor lu!  
+const ownerNumber = ["6281351047727@s.whatsapp.net"]   //ganti nomor lu! 
+const pacarNumber = ["6288279550172@s.whatsapp.net"]  //ganti nomor lu!  
 /************************************/
 
        
